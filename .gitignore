@@ -19,6 +19,7 @@ demo/*.d.ts
 demo/lib
 demo/platforms
 node_modules
+punlish/*
 publish/src
 publish/package
 demo/report/report.html

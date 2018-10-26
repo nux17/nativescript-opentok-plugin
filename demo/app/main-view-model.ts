@@ -1,7 +1,7 @@
 import { Observable } from 'tns-core-modules/data/observable';
 import {TNSOTSession, TNSOTPublisher, TNSOTSubscriber} from 'nativescript-opentok-plugin';
 
-export class HelloWorldModel extends Observable {
+export class OpenTokTest extends Observable {
 
 private _apiKey:string = 'API';
 private _sessionId: string = 'SESSION';

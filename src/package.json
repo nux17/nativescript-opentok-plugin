@@ -1,7 +1,7 @@
 {
     "name": "nativescript-opentok-plugin",
     "version": "1.0.0",
-    "description": "Your awesome NativeScript plugin.",
+    "description": "OpenTok plugin for Nativescript",
     "main": "opentok-plugin",
     "typings": "index.d.ts",
     "nativescript": {
@@ -35,8 +35,8 @@
         "iOS"
     ],
     "author": {
-        "name": "Your Name",
-        "email": "youremail@yourdomain.com"
+        "name": "Maxime Boguta",
+        "email": "maxime.boguta@gmail.com"
     },
     "bugs": {
         "url": "https://github.com/nux17/nativescript-opentok-plugin/issues"
