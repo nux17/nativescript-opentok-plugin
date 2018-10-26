@@ -1,0 +1,1 @@
+export type RENDERSTYLE = "fit | scale | fill";
