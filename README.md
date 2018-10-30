@@ -1,7 +1,7 @@
 # Nativescript OpenTok Plugin
 
 This repository is a fork of https://github.com/TeamMaestro/nativescript-opentok, all credit to this repository for the wrapper and actual code.
-This plugin is just an dirty but working updated version based on the last OpenTok SDK with a working example.
+This plugin is just a dirty but working updated version based on the last OpenTok SDK with a working example.
 
 # Usage
 
